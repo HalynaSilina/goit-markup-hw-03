@@ -203,14 +203,7 @@ img {
 
 	text-transform: uppercase;
 }
-.feature-list {
-	display: flex;
-	margin-left: calc(-1 * var(--primary-gap-size));
-	}
-.feature-list > .item {
-	flex-basis: calc(100% / 4 - var(--primary-gap-size));
-	margin-left: var(--primary-gap-size);
-	}
+ 
 /* Work */
 .work-list {
 	display: flex;
